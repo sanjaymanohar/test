@@ -1,3 +1,3 @@
 #include<stdio.h>
 int main(){
-printf("hi this me : sanjay")}
+printf("hi this me : sanjay");}
